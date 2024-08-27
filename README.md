@@ -1,1 +1,3 @@
 # BattleBugs
+
+This is a program of an autonomous BattleBug. A BattleBug would be put into a tournament with 3 other BattleBugs, and the last BattleBug alive was the winner. On the grid, there were several powerups randomly placed that were for speed, strength, or defense. Every 40 moves, the border would be covered in rocks, making the grid get smaller as the game went on (the rocks were also a possible cause of death). The BattleBug had to have a strategy and priorites, determining when to run from other players, chase and attack other players, avoid rocks falling down, and getting specific powerups needed.
