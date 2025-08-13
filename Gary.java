@@ -64,7 +64,7 @@ public class Gary extends BattleBug2012
 
         
         // order of tasks by priority:
-        // 1. avoiding faling rocks.
+        // 1. avoiding falling rocks.
         // 2. running away from a stronger enemy nearby.
         // 3. chasing and killing a weaker bug nearby.
         // 4. getting the nearest power up.
